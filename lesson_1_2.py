@@ -27,3 +27,18 @@ print(message_spaces.strip() + "\n")
 print("Complete file name is:", filename)
 print("Prefix name file is:", filename.removesuffix(".txt"))
 print("File extension is:", filename.removeprefix("python_notes"), "\n")
+
+# 2.9
+print(2 + 3 + 3)
+print(10 - 1 - 1)
+print(2 * 2 * 2)
+print(int(16 / 2), "\n")
+
+# 2.10
+my_favorite_int = 13
+print("My favorite integer is", my_favorite_int, "\n")
+
+# 2.11 pass
+
+# 2.12 pass
+
